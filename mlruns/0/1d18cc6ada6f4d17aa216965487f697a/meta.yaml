@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML_Projects/ml_flow/mlruns/0/1d18cc6ada6f4d17aa216965487f697a/artifacts
+end_time: 1689233589321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d18cc6ada6f4d17aa216965487f697a
+run_name: amusing-gnat-786
+run_uuid: 1d18cc6ada6f4d17aa216965487f697a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689233589302
+status: 3
+tags: []
+user_id: Ayush Gandhi
