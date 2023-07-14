@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML_Projects/ml_flow/mlruns/0/73c37dcb9ca84171aa60436b90509579/artifacts
+end_time: 1689307403221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73c37dcb9ca84171aa60436b90509579
+run_name: beautiful-stag-895
+run_uuid: 73c37dcb9ca84171aa60436b90509579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689307400981
+status: 3
+tags: []
+user_id: Ayush Gandhi
